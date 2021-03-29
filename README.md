@@ -7,9 +7,9 @@
 - Applied statistical methods such as Principal Component Assessment and Factor Analysis. 
 - Measured performance of the multivariate logistic regression model formed based on predictions on test data.
 
-### R Files:
+### Files:
 
 - 'EMR.R': Data Reading, Pre-Processing, Cleaning
-- 'Binary_EMR.R': Binary Logistic Regression Model application
-- 'Ordinal_EMR.R': Ordinal Logistic Regression Model application
-- 'Multinomial_EMR.R': Multinomial Logistic Regression Model application
+- 'BinaryEMR.R': Binary Logistic Regression Model application
+- 'MultinomEMR.R': Multinomial Logistic Regression Model application
+- EMR>pdf: Presentation for the depth analysis and inferences
