@@ -12,4 +12,4 @@
 - 'EMR.R': Data Reading, Pre-Processing, Cleaning
 - 'BinaryEMR.R': Binary Logistic Regression Model application
 - 'MultinomEMR.R': Multinomial Logistic Regression Model application
-- EMR>pdf: Presentation for the depth analysis and inferences
+- EMR.pdf: Presentation for the depth analysis and inferences
